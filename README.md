@@ -1,7 +1,7 @@
 ## Hi there 👋
 :grin: :rocket:
 <br>
-Eu me chamo Kelber Soares, moro no Nordeste do Brasil :earth_americas:, estou me tornando um programador Full Stack :computer:.
+Me chamo Kelber Soares, moro no Nordeste do Brasil :earth_americas:, estou me tornando um programador Full Stack :computer:.
 <br>
 <br>
 Atualmente estou estundando e fazendo projetos em:
